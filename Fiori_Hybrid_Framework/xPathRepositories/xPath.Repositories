@@ -1,0 +1,32 @@
+# Links
+
+# Radio
+
+# CheckBoxes
+
+# Buttons
+
+Open_Search_Box=.sapUshellShellHeadContainer #sf
+Search_Button=.//*[@id='searchFieldInShell-button']
+open_facets=.//*[@title='Show Filters']
+close_facets=.//*[@title='Hide Filters']
+home_button=.//*[@id='homeBtn']
+Options_Button=.//*[@id='actionsBtn-name']
+Logout_Button=.//*[@id='logoutBtn']
+OK_Button=.//*[@id='__mbox-btn-0']
+
+# List
+
+connector_list=.//*[@class='sapMSelectList']
+
+# Test Boxes
+
+Search_Box=.//*[@id='searchFieldInShell-input-inner']
+
+#WebElement
+
+Search_results=.//*[@id='__label0']
+
+
+
+
